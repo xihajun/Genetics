@@ -1,5 +1,5 @@
 # Genetics 基因重拾
-在剑桥，老沙的LAB做实验，希望能够重拾一下基本的生物学知识，太多零散的知识没有一个系统，希望今天开始能够记录下来归纳一下。我太懒了，或许这一次就是最后一【2020.02.27】
+【2020.02.27】在剑桥，老沙的LAB做实验，希望能够重拾一下基本的生物学知识，太多零散的知识没有一个系统，希望今天开始能够记录下来归纳一下。我太懒了，或许这一次就是最后一次更新，希望不
 
 2－3月的阅读列表：
 - [ ] TIP: A probabilistic method for identifying transcription factor target genes from ChIP-seq binding profiles
