@@ -1,0 +1,25 @@
+# ignore venv
+venv*
+
+
+# jupyter 
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+__pycache__
+*/__pycache__
+
+# hide data
+data/JunFan
+code/Un*
+Un*
+
+# hide motif files
+data/processed/mouse
+data/processed/human
+
+# hide images
+image/issue
+
+# backup
+backup/
