@@ -21,3 +21,4 @@
 
 目标：
 - [ ] 建立一个好看的查询表(or wiki)，为中国的宝宝们提供一下学习的便捷，如果有人学这个方面的内容的话
+  - Gene transcriptions/Start sites
